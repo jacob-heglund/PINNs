@@ -1,0 +1,22 @@
+lr = 0.001
+n_train = 50K
+7.2711e-05
+
+n_train = 100K
+1.6014e-05
+
+
+# notes on learning rate
+lr = 1e-3 is good
+- 1e-4 doesn't get anywhere fast enough
+- 1e-2 converges to a local basin quickly (within 5-ish epochs) but then jumps around and doesn't continue to get better
+
+
+
+
+
+
+
+
+
+
